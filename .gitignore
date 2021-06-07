@@ -1,0 +1,9 @@
+# .gitignore
+
+# 忽略 demo_data 和 Data 目錄下的檔案
+Data/
+demo_data/
+
+# 忽略
+Chi-ICASI_fullpaper_finalv7.pdf
+.vscode
