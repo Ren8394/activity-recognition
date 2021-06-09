@@ -1,9 +1,10 @@
 # .gitignore
 
-# 忽略 demo_data 和 Data 目錄下的檔案
+# ignore file in demo_data, __pycache__, and Data folder
 Data/
 demo_data/
+__pycache__/
 
-# 忽略
+# ignore files
 Chi-ICASI_fullpaper_finalv7.pdf
 .vscode

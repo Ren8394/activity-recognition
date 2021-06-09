@@ -25,10 +25,11 @@ Execute file in `AR.ipynb` which is a jupyter file
 * Load data
 * Labeling
 * Normalise
-* Split data into training set and testing set **(8:2)**
+* Split data into training set and testing set **(9:1)**
 ### Construct neuron network model
 * Build Keras MLP
 ### Validate results
+* Loss function line plot
 * Confusion Matrix
 
 
